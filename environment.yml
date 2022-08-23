@@ -1,0 +1,11 @@
+name: simplanner
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - pip
+  - scipy
+  - numpy
+  - pandas
+  - cvxpy
+  - matplotlib
